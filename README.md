@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 𝙷𝚎𝚕𝚕𝚘, 𝚏𝚘𝚕𝚔𝚜! 𝙸'𝚖 𝙽𝚒𝚔𝚘𝚕𝚊𝚢 𝙵𝚎𝚍𝚘𝚝𝚎𝚗𝚔𝚘.
 
-<!-- visitors badge -->
+<!-- Badges -->
 ![](https://vistr.dev/badge?repo=kalkolay.kalkolay&color=CCCC00&leftcolor=0000FF&text=Visitors)
 
 ## 🧑🏻‍💻 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
@@ -25,11 +25,11 @@
 ## 🔔 𝙼𝚢 𝚛𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 
 <!-- Telegram, Discord, LinkedIn, Protonmail -->
-
-<!--## Interesting facts -->
 
 <!--## 𝚂𝚞𝚙𝚙𝚘𝚛𝚝-->
 <!-- support button -->
