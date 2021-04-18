@@ -1,6 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 𝙷𝚎𝚕𝚕𝚘, 𝚏𝚘𝚕𝚔𝚜! 𝙸'𝚖 𝙽𝚒𝚔𝚘𝚕𝚊𝚢 𝙵𝚎𝚍𝚘𝚝𝚎𝚗𝚔𝚘.
 
 <!-- visitors badge -->
+![](https://vistr.dev/badge?repo=kalkolay.kalkolay?color=FFFF00?leftcolor=0000FF?text=Visitors)
 
 ## 🧑🏻‍💻 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 
