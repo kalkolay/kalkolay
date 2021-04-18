@@ -44,6 +44,10 @@
 ## 🔔 𝙼𝚢 𝚛𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/kalkolay/monke_business/pull/2) in [kalkolay/monke_business](https://github.com/kalkolay/monke_business)
+2. 💪 Opened PR [#3](https://github.com/kalkolay/monke_business/pull/3) in [kalkolay/monke_business](https://github.com/kalkolay/monke_business)
+3. 💪 Opened PR [#1](https://github.com/kalkolay/CPU_consumption/pull/1) in [kalkolay/CPU_consumption](https://github.com/kalkolay/CPU_consumption)
+<!--END_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 
