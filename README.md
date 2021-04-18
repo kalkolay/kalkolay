@@ -23,9 +23,8 @@
 [![kalkolay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkolay&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔔 𝙼𝚢 𝚛𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 
